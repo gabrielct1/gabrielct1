@@ -1,6 +1,7 @@
 # Olá, sou o Gabriel 👋
 
-Bem-vindo ao meu perfil no GitHub!  
+Bem-vindo ao meu perfil no GitHub!
+  
 Atualmente, sou estudante de Sistemas de Informação na UFOP e estou mergulhado no mundo da Ciência de Dados.  
 No meu GitHub, você vai encontrar projetos que exploram o que aprendo sobre dados, machine learning e tecnologias relacionadas.
 
